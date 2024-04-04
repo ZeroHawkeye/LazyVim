@@ -4,3 +4,5 @@
 local opt = vim.opt
 
 opt.relativenumber = false
+-- 保存自动格式化
+vim.g.autoformat = false
